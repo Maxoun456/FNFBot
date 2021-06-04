@@ -1,7 +1,5 @@
-# FNFBot was here lmao
+# Welcome to FNFBot 
 
-get deleted pingas
+This is one of my personal projects, a Discord bot with lots of features built inside it!
 
-pretty dope-ass game
-
-still trying to make the best bot of all time
+If you want to use the code for your bot just install node js, all the packages in package.json and create a file called .env containing you MongoDB URL and your bot token
